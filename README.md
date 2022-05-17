@@ -16,4 +16,4 @@ You can type in various criteria, and it'll produce a variety of results. Each c
 
 *Summary*
 
-One drawback of this design is that it is using a variety of separate data criteria as filters from a relatively large set of data. Two further devlopments that would be useful are the development of a cleaner user interface that identifies certain criteria discretely, as well 
+One drawback of this design is that it is using a variety of separate data criteria as filters from a relatively large set of data. Two further devlopments that would be useful are the development of a cleaner user interface that identifies certain criteria discretely, especially for dates in different forms, as well as case sensitivity. Moreover, a way to catch multiple words in a filter criteria would be a useful development for the future as well.
